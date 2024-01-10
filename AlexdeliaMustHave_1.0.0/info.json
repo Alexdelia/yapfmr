@@ -1,6 +1,6 @@
 {
 	"name": "alexdelia-must-have",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"title": "Alexdelia's must have",
 	"author": "Alexdelia",
 	"contact": "adelille@student.42.fr",
@@ -15,7 +15,7 @@
 		"PipeVisualizer",
 		"Diggs",
 		"DiscoScience",
-		"extended-description",
+		"extended-descriptions",
 		"Fill4Me",
 		"CanalBuilderWLK",
 		"AfraidOfTheDark",
