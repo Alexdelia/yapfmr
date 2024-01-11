@@ -1,6 +1,6 @@
 {
 	"name": "alexdelia-must-have",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"title": "Alexdelia's must have",
 	"author": "Alexdelia",
 	"contact": "adelille@student.42.fr",
@@ -17,6 +17,7 @@
 		"DiscoScience",
 		"extended-descriptions",
 		"Fill4Me",
+		"AutoDeconstruct",
 		"CanalBuilderWLK",
 		"AfraidOfTheDark",
 		"Dectorio",
@@ -46,7 +47,9 @@
 		"? quantum-chests",
 		"? BigBags",
 		"? auto-research",
-		"? VoidChestPlus"
+		"? VoidChestPlus",
+		"? FasterStart",
+		"? EarlyTrainsUpdated"
 	],
 	"description": "My must have mods for any playthrough."
 }
