@@ -1,6 +1,6 @@
 {
 	"name": "alexdelia-game-changing",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"title": "Alexdelia's game changing mods",
 	"author": "Alexdelia",
 	"contact": "adelille@student.42.fr",
@@ -13,7 +13,6 @@
 		"? vtk-deep-core-mining",
 		"? DeepMine",
 		"? deep-storage-unit",
-		"? logistic-memory-units",
 		"? fluid-memory-storage",
 		"? WideChests",
 		"? RenaiTransportation",
