@@ -1,0 +1,14 @@
+{
+	"name": "deep-mine-early",
+	"version": "1.0.0",
+	"title": "Deep Mine Early",
+	"author": "Alexdelia",
+	"contact": "adelille@student.42.fr",
+	"homepage": "https://github.com/Alexdelia/yapfmr",
+	"factorio_version": "1.1",
+	"dependencies": [
+		"base >= 1.1",
+		"DeepMine >= 0.6.2"
+	],
+	"description": "Bring Deep Mine to early game red science."
+}
