@@ -1,0 +1,13 @@
+{
+	"name": "no-more-oil",
+	"version": "0.1.0",
+	"title": "No More Oil",
+	"author": "Alexdelia",
+	"contact": "adelille@student.42.fr",
+	"homepage": "https://github.com/Alexdelia/yapfmr",
+	"factorio_version": "1.1",
+	"dependencies": [
+		"base >= 1.1"
+	],
+	"description": "[WIP] Mod that removes the need for oil in the game with alternatives."
+}
