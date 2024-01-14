@@ -1,6 +1,6 @@
 {
 	"name": "alexdelia-game-changing",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"title": "Alexdelia's game changing mods",
 	"author": "Alexdelia",
 	"contact": "adelille@student.42.fr",
@@ -9,6 +9,7 @@
 	"dependencies": [
 		"base >= 1.1",
 		"? alexdelia-must-have",
+		"? no-more-oil",
 		"? dyson-sphere",
 		"? vtk-deep-core-mining",
 		"? DeepMine",
