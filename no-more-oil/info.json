@@ -7,7 +7,8 @@
 	"homepage": "https://github.com/Alexdelia/yapfmr",
 	"factorio_version": "1.1",
 	"dependencies": [
-		"base >= 1.1"
+		"base >= 1.1",
+		"salt"
 	],
 	"description": "[WIP] Mod that removes the need for oil in the game with alternatives."
 }

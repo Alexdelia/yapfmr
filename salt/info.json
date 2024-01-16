@@ -1,0 +1,13 @@
+{
+	"name": "salt",
+	"version": "0.1.0",
+	"title": "Salt",
+	"author": "Alexdelia",
+	"contact": "adelille@student.42.fr",
+	"homepage": "https://github.com/Alexdelia/yapfmr",
+	"factorio_version": "1.1",
+	"dependencies": [
+		"base >= 1.1"
+	],
+	"description": "Bring salt to factorio. This mod does nothing useful on its own, but is required by other mods."
+}

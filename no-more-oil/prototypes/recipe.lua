@@ -1,4 +1,3 @@
--- water + coal in a chemical plant makes sulfur
 data:extend({
   {
 	type = "recipe",
@@ -19,5 +18,24 @@ data:extend({
 	icon = "__no-more-oil__/graphics/recipe/sulfur.png",
 	icon_size = 64,
 	order = "b[fluid-chemistry]-a[sulfur]"
+  },
+  {
+	type = "recipe",
+	name = "plastic-without-oil",
+	category = "chemistry",
+	enabled = false,
+	energy_required = 1,
+	ingredients =
+	{
+	  {type="item", name="coal", amount=4}
+	},
+	results=
+	{
+	  {type="item", name="plastic-bar", amount=1}
+	},
+	subgroup = "fluid-recipes",
+	icon = "__no-more-oil__/graphics/recipe/plastic.png",
+	icon_size = 64,
+	order = "b[fluid-chemistry]-b[plastic]"
   }
 })
