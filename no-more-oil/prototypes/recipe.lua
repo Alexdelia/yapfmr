@@ -138,7 +138,13 @@ data:extend({
 				amount = 1
 			}
 		},
-		results = "rocket-fuel",
+		results = {
+			{
+				type = "item",
+				name = "rocket-fuel",
+				amount = 1
+			}
+		},
 		subgroup = "fluid-recipes",
 		icon = "__no-more-oil__/graphics/no-oil.png",
 		icon_size = 64,
