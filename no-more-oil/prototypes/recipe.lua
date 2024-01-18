@@ -140,7 +140,7 @@ data:extend({
 		},
 		results = "rocket-fuel",
 		subgroup = "fluid-recipes",
-		icon = "__no-more-oil__/graphics/recipe/plastic.png",
+		icon = "__no-more-oil__/graphics/no-oil.png",
 		icon_size = 64,
 		order = "b[fluid-chemistry]-b[plastic]"
 	}
