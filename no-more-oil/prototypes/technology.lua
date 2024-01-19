@@ -11,3 +11,11 @@ table.insert(data.raw.technology["advanced-oil-processing"].effects, {
 	type = "unlock-recipe",
 	recipe = "solid-fuel-from-sulfur-and-coal"
 });
+table.insert(data.raw.technology["rocket-fuel"].effects, {
+	type = "unlock-recipe",
+	recipe = "rocket-fuel-without-oil"
+});
+table.insert(data.raw.technology.lubricant.effects, {
+	type = "unlock-recipe",
+	recipe = "lubricant-without-oil"
+});

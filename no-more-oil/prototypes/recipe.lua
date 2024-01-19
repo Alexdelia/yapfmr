@@ -145,9 +145,62 @@ data:extend({
 				amount = 1
 			}
 		},
+		icon = "__no-more-oil__/graphics/recipe/rocket-fuel.png",
+		icon_size = 64
+	},
+	{
+		type = "recipe",
+		name = "lubricant-without-oil",
+		category = "chemistry",
+		enabled = false,
+		energy_required = 1,
+		ingredients = {
+			{
+				type = "fluid",
+				name = "water",
+				amount = 10
+			},
+			{
+				type = "item",
+				name = "sulfur",
+				amount = 1
+			}
+		},
+		results = {
+			{
+				type = "fluid",
+				name = "lubricant",
+				amount = 10
+			}
+		},
 		subgroup = "fluid-recipes",
-		icon = "__no-more-oil__/graphics/no-oil.png",
-		icon_size = 64,
-		order = "b[fluid-chemistry]-b[plastic]"
+		icon = "__no-more-oil__/graphics/recipe/lubricant.png",
+		icon_size = 64
+		crafting_machine_tint = {
+			primary = {
+				r = 0.268,
+				g = 0.723,
+				b = 0.223,
+				a = 1
+			},
+			secondary = {
+				r = 0.432,
+				g = 0.793,
+				b = 0.386,
+				a = 1
+			},
+			tertiary = {
+				r = 0.647,
+				g = 0.471,
+				b = 0.396,
+				a = 1
+			},
+			quaternary = {
+				r = 1,
+				g = 0.395,
+				b = 0.127,
+				a = 1
+			}
+		}
 	}
 });
