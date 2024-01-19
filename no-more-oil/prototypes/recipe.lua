@@ -175,7 +175,7 @@ data:extend({
 		},
 		subgroup = "fluid-recipes",
 		icon = "__no-more-oil__/graphics/recipe/lubricant.png",
-		icon_size = 64
+		icon_size = 64,
 		crafting_machine_tint = {
 			primary = {
 				r = 0.268,
